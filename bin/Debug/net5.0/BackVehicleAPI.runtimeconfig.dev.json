@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Grocia\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Grocia\\.nuget\\packages"
+    ]
+  }
+}
